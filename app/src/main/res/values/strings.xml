@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portal TI16</string>
+    <string name="tambah">Tambahkan Mahasiswa</string>
+    <string name="nama">Nama</string>
+    <string name="nim">0110216031</string>
+    <string name="tambahbaru">Tambahkan Mahasiswa Baru : </string>
+    <string name="tambahnama">Nama Mahasiswa</string>
+    <string name="tambahnim">NIM</string>
+    <string name="tambahkan">TAMBAHKAN</string>
+</resources>
